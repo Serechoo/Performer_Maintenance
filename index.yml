@@ -1,0 +1,8 @@
+- id: Performer Maintenance
+  name: Performer Maintenance
+  metadata:
+    description: Upon updating a scene, or manually via the task, removes all performers that are not associated with any scenes.
+  version: 0.1
+  date: 2024-01-24 07:00:00
+  path: Performer_Maintenance.zip
+  sha256: 
